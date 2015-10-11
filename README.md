@@ -25,10 +25,15 @@ PM2.5 Emissions Data (*summarySCC_PM25.rds*): This file contains a data frame wi
 
      fips      SCC Pollutant Emissions  type year
  4  09001 10100401  PM25-PRI    15.714 POINT 1999
+ 
  8  09001 10100404  PM25-PRI   234.178 POINT 1999
+ 
  12 09001 10100501  PM25-PRI     0.128 POINT 1999
+ 
  16 09001 10200401  PM25-PRI     2.036 POINT 1999
+ 
  20 09001 10200504  PM25-PRI     0.388 POINT 1999
+ 
  24 09001 10200602  PM25-PRI     1.490 POINT 1999
 
 * <b>fips:</b> A five-digit number (represented as a string) indicating the U.S. county
