@@ -76,5 +76,5 @@ barplot(c(bEmiss1999,bEmiss2002,bEmiss2005,bEmiss2008), names=c(1999,2002,2005,2
 barplot(c(laEmiss1999,laEmiss2002,laEmiss2005,laEmiss2008), names=c(1999,2002,2005,2008), xlab="Years", ylab="Emissions (thousands of units)", main="Highway Vehicles PM2.5 Emissions - Los Angeles", col="red")
 
 # Output a PNG file
-dev.copy(png, file="plot6.png", height=480, width=480);
+dev.copy(png, file="plot6.png", height=680, width=680);
 dev.off();
